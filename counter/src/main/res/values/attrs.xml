@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CounterView">
+
+        <attr name="cv_loading" format="boolean" />
+        <attr name="cv_min" format="integer" />
+        <attr name="cv_max" format="integer" />
+        <attr name="cv_info" format="string" />
+        <attr name="cv_background" format="integer" />
+    </declare-styleable>
+
+</resources>
